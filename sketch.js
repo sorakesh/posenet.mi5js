@@ -1,8 +1,5 @@
 let capture;
 let posenet;
-let noseX,noseY;
-let reyeX,reyeY;
-let leyeX,leyeY;
 let singlePose,skeleton;
 
 function setup() {
